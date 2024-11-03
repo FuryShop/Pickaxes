@@ -5,7 +5,7 @@ Addon pickaxes (weapons)
 If you want to use this in one of youre free scripts please make a attribution. Not allowed to use in any paid scripts
 only non-commercial purposes.
 
-WEAPON_FURY_PICKAXE_STONE
+WEAPON_FURY_PICKAXE_STONE,
 WEAPON_FURY_PICKAXE_IRON
 
 --Ox Inventory -> data -> weapons.lua
